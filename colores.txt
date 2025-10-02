@@ -8,3 +8,4 @@ Blanco
 Morado
 
 Rosa
+Cyan
